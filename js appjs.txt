@@ -1,0 +1,4 @@
+<var name = "Marcílio";
+var age = 38;
+
+console.log("o nome é" + " nome + e tem idade de " + age);
